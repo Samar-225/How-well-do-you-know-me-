@@ -66,6 +66,8 @@ console.log("Congratulations!")
 
 else
 {
-  console.log("Nice ! You have SCORED: ", score," / ",tscore);
+  console.log("Nice ! You have SCORED: ", score," / ",tscore,"\n\n");
+
+
 
 }
